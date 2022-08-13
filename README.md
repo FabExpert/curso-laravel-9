@@ -5,7 +5,7 @@
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone https://github.com/FabExpert/setup-docker-laravel.git
+git clone https://github.com/FabExpert/setup-docker-laravel.git laravel9
 ```
 
 ```sh
